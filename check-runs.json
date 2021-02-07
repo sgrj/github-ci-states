@@ -1,0 +1,31 @@
+[
+  {
+    "name": "A successful check run",
+    "min_runtime_in_seconds": 30,
+    "conclusion": "success"
+  },
+  {
+    "name": "A failed check run",
+    "conclusion": "failure"
+  },
+  {
+    "name": "A neutral check run",
+    "conclusion": "neutral"
+  },
+  {
+    "name": "A cancelled check run",
+    "conclusion": "cancelled"
+  },
+  {
+    "name": "A skipped check run",
+    "conclusion": "skipped"
+  },
+  {
+    "name": "A check run that timed out",
+    "conclusion": "timed_out"
+  },
+  {
+    "name": "A check run requiring action",
+    "conclusion": "action_required"
+  }
+]

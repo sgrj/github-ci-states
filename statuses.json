@@ -1,0 +1,15 @@
+[
+  {
+    "context": "A success status",
+    "min_runtime_in_seconds": 40,
+    "state": "success"
+  },
+  {
+    "context": "A failure status",
+    "state": "failure"
+  },
+  {
+    "context": "An error status",
+    "state": "error"
+  }
+]
