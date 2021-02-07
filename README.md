@@ -45,7 +45,8 @@ and `check-runs.json` set to
 ```
 the pipeline will initially contain one pending state and one check-run that is
 in progress. After 15 seconds, the status is marked as a `success`, and after 30
-seconds the check-run is marked as `failure`.
+seconds the check-run is marked as `failure`. Check out the resulting CI pipeline in
+[https://github.com/sgrj/github-ci-states/pull/1](https://github.com/sgrj/github-ci-states/pull/1).
 
 ## Try it out!
 
