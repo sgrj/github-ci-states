@@ -1,0 +1,7 @@
+[
+  {
+    "context": "Some status",
+    "min_runtime_in_seconds": 15,
+    "state": "success"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "name": "Some check run",
+    "min_runtime_in_seconds": 30,
+    "conclusion": "failure"
+  }
+]
